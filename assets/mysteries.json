@@ -1,0 +1,714 @@
+{
+  "mysteries": [
+    {
+      "id": 1,
+      "title": "Death at the Opera House",
+      "introduction": "The velvet curtains of the Metropolitan Opera House have witnessed countless performances, but tonight they conceal a different kind of drama. Red and gold theater lights cast long shadows down marble corridors, while the distant sound of champagne glasses clinking echoes from the lobby. The city's elite have gathered for what should have been a triumphant evening of culture and sophistication.\n\nDuring the grand opening night of 'La Traviata,' renowned soprano Isabella Rosetti was found dead in her dressing room during intermission. The discovery was made by her understudy, who had come to wish the star luck for the second act. Instead, she found Isabella slumped in her chair, a silk scarf wrapped tightly around her neck.\n\nThe Metropolitan Opera House now stands as a crime scene, its grand performance interrupted by a more sinister show. Isabella Rosetti, age 34, was known as much for her temperamental behavior and romantic scandals as for her world-class voice. The question that hangs in the air like a haunting melody: who among tonight's audience wanted the final curtain to fall on Isabella's career permanently?",
+      "victim": {
+        "name": "Isabella Rosetti",
+        "age": 34,
+        "occupation": "Opera Singer",
+        "background": "A world-famous soprano known for her temperamental behavior and romantic scandals"
+      },
+      "location": "Metropolitan Opera House - Dressing Room #3",
+      "causeOfDeath": "Strangulation",
+      "murderWeapon": "Silk scarf",
+      "timeOfDeath": "8:47 PM (during intermission)",
+      "evidence": [
+        "Silk scarf with traces of expensive perfume",
+        "Threatening letter in Isabella's purse",
+        "Broken champagne glass on the floor",
+        "Fresh scratches on the victim's arms",
+        "Muddy footprint by the window",
+        "Missing diamond earrings worth $50,000",
+        "Phone showing deleted text messages"
+      ],
+      "suspects": [
+        {
+          "name": "Marcus Blackwood",
+          "occupation": "Opera Director",
+          "motive": "Isabella threatened to expose his embezzlement of opera funds",
+          "alibi": "Claims he was on stage managing the production"
+        },
+        {
+          "name": "Elena Vasquez",
+          "occupation": "Understudy Singer", 
+          "motive": "Desperate to get Isabella's role and advance her failing career",
+          "alibi": "Says she was in the chorus dressing room preparing for Act II"
+        },
+        {
+          "name": "Dr. Vincent Caldwell",
+          "occupation": "Plastic Surgeon",
+          "motive": "Isabella was blackmailing him about botched surgeries on other celebrities",
+          "alibi": "Claims he was in the VIP box with his wife during intermission"
+        },
+        {
+          "name": "Sofia Petrova",
+          "occupation": "Isabella's Personal Assistant",
+          "motive": "Discovered Isabella was planning to fire her and ruin her reputation",
+          "alibi": "Says she was getting coffee from the lobby during intermission"
+        },
+        {
+          "name": "Antonio DiMarco",
+          "occupation": "Ex-Husband",
+          "motive": "Bitter divorce proceedings and custody battle over their daughter",
+          "alibi": "Claims he was outside smoking in the alley during intermission"
+        },
+        {
+          "name": "Madame Chantal Dubois",
+          "occupation": "Voice Coach",
+          "motive": "Isabella stole her teaching methods and published them as her own",
+          "alibi": "Says she was in the bathroom touching up her makeup"
+        },
+        {
+          "name": "James Fletcher",
+          "occupation": "Jewelry Insurance Investigator",
+          "motive": "Isabella had been filing fraudulent insurance claims on stolen jewelry",
+          "alibi": "Claims he was making phone calls in the parking garage"
+        }
+      ],
+      "killer": "Elena Vasquez",
+      "motive": "Elena had been Isabella's understudy for three years with no chance of advancement. When she overheard Isabella telling the director she was 'talentless' and would never make it, Elena snapped. She used Isabella's own silk scarf during intermission when everyone was distracted.",
+      "solution": "Elena lied about being in the chorus dressing room. She actually snuck into Isabella's dressing room during intermission, confronted her about the cruel comments, and in a moment of rage, strangled her with the silk scarf. The muddy footprint belongs to Elena, who had stepped outside earlier to calm her nerves."
+    },
+    {
+      "id": 2,
+      "title": "Murder at Millionaire's Manor",
+      "introduction": "Rain pounds against the floor-to-ceiling windows of Blackstone Manor, a modernist fortress of glass and steel perched high above the city. Inside, smart home technology hums quietly - automated lights, climate control, and security systems all responding to invisible commands. But tonight, the house's digital brain has been compromised, leaving its master vulnerable in his technological sanctuary.\n\nTech billionaire Harrison Blackstone, 52, has been found dead in his private library, slumped over his computer desk. The cause appears to be electrocution from a modified power cable. Most disturbing is that the mansion's sophisticated security system - capable of tracking every footstep and heartbeat - was mysteriously disabled for exactly twenty minutes around the time of death.\n\nBlackstone built his empire by stealing ideas and destroying competitors, making enemies of former partners, employees, and rivals alike. His smart home, designed to be impenetrable, has become the perfect locked room mystery. Someone with intimate knowledge of both technology and Blackstone's routines turned his sanctuary into his tomb.",
+      "victim": {
+        "name": "Harrison Blackstone",
+        "age": 52,
+        "occupation": "Tech CEO",
+        "background": "Ruthless businessman who built his empire by stealing ideas and destroying competitors"
+      },
+      "location": "Blackstone Manor - Private Library",
+      "causeOfDeath": "Electrocution",
+      "murderWeapon": "Modified computer power cable",
+      "timeOfDeath": "11:23 PM",
+      "evidence": [
+        "Computer with modified power cable",
+        "Security system logs showing 20-minute gap",
+        "Fingerprints on a screwdriver",
+        "Deleted files on Harrison's computer",
+        "Hidden camera memory card in the desk drawer",
+        "Prescription anxiety medication (not Harrison's)",
+        "Wet footprints leading from the pool area"
+      ],
+      "suspects": [
+        {
+          "name": "Rebecca Blackstone",
+          "occupation": "Estranged Wife",
+          "motive": "Stands to inherit $500 million and discovered Harrison's plan to divorce her",
+          "alibi": "Claims she was in the guest house all evening"
+        },
+        {
+          "name": "Nathan Cross",
+          "occupation": "Former Business Partner",
+          "motive": "Harrison stole his revolutionary AI technology and left him bankrupt",
+          "alibi": "Says he was at his hotel room during a business conference"
+        },
+        {
+          "name": "Dr. Evelyn Mars",
+          "occupation": "Chief Technology Officer",
+          "motive": "Harrison was planning to fire her and steal credit for her latest invention",
+          "alibi": "Claims she was working late at the office"
+        },
+        {
+          "name": "Kyle Morrison",
+          "occupation": "House Manager",
+          "motive": "Harrison discovered Kyle was embezzling from household accounts",
+          "alibi": "Says he was grocery shopping for tomorrow's breakfast"
+        },
+        {
+          "name": "Alexis Chen",
+          "occupation": "Personal Trainer",
+          "motive": "Harrison threatened to expose their affair to her husband",
+          "alibi": "Claims she left after their evening workout session"
+        },
+        {
+          "name": "Detective Sarah Rodriguez",
+          "occupation": "Private Investigator",
+          "motive": "Harrison hired then betrayed her, refusing to pay for compromising photos",
+          "alibi": "Says she was staking out another case across town"
+        },
+        {
+          "name": "Tommy Vasquez",
+          "occupation": "IT Security Specialist",
+          "motive": "Harrison blamed him for a major data breach and destroyed his career",
+          "alibi": "Claims he was at home playing online games with timestamps"
+        }
+      ],
+      "killer": "Tommy Vasquez",
+      "motive": "Harrison had falsely blamed Tommy for a security breach that actually resulted from Harrison's own negligence. This destroyed Tommy's reputation and career in cybersecurity. Tommy used his advanced technical skills to disable the security system and modify the computer's power supply.",
+      "solution": "Tommy used his expert knowledge of the mansion's systems to create a 20-minute window where he could enter undetected. He modified Harrison's computer power cable to deliver a fatal electrical shock when activated. The anxiety medication found belongs to Tommy, who had been struggling with mental health issues since losing his career."
+    },
+    {
+      "id": 3,
+      "title": "Poison at the Pastry Shop",
+      "introduction": "The warm aroma of butter and vanilla fills the air at Dubois Patisserie, where rows of perfect macarons gleam like jewels behind pristine glass cases. Afternoon light streams through tall windows onto marble countertops where culinary magic happens daily. This Parisian temple to pastry represents the pinnacle of French confectionery art, but today it will serve a far more bitter offering.\n\nCelebrity chef Marie Dubois, 41, collapsed and died during a live cooking demonstration in front of dozens of guests and cameras. She had just bitten into one of her signature lavender macarons when she suddenly clutched her throat, gasped, and fell to the floor. The macaron, half-eaten, revealed traces of cyanide - a deadly addition to what should have been a sweet finale.\n\nMarie built her reputation on innovative pastries and cutthroat business practices, climbing to fame by crushing competitors and stealing recipes. Her kitchen, usually a place of creation, became the stage for her final performance. Someone with access to both her ingredients and her routine decided that Marie's last taste would be her most memorable - and most fatal.",
+      "victim": {
+        "name": "Marie Dubois",
+        "age": 41,
+        "occupation": "Celebrity Chef",
+        "background": "Famous for her innovative pastries and cutthroat business practices"
+      },
+      "location": "Dubois Patisserie - Main Kitchen",
+      "causeOfDeath": "Cyanide poisoning",
+      "murderWeapon": "Poisoned macaron",
+      "timeOfDeath": "3:15 PM (during live demonstration)",
+      "evidence": [
+        "Half-eaten lavender macaron containing cyanide",
+        "Bottle of almond extract with unusual residue",
+        "Video footage from multiple angles",
+        "Handwritten recipe notes with corrections",
+        "Financial documents showing restaurant debts",
+        "Love letters hidden in Marie's office",
+        "Latex gloves in the dumpster outside"
+      ],
+      "suspects": [
+        {
+          "name": "Pierre Laurent",
+          "occupation": "Sous Chef",
+          "motive": "Marie was stealing his recipes and taking credit for his innovations",
+          "alibi": "Was preparing ingredients in the back kitchen during the demonstration"
+        },
+        {
+          "name": "Camille Moreau",
+          "occupation": "Food Critic",
+          "motive": "Marie had bribed her to write false reviews, then threatened exposure",
+          "alibi": "Claims she was in the front of the shop taking notes"
+        },
+        {
+          "name": "Henri Fontaine",
+          "occupation": "Business Partner",
+          "motive": "Discovered Marie was secretly selling the business to competitors",
+          "alibi": "Says he was in the office handling phone calls"
+        },
+        {
+          "name": "Lucille Beaumont",
+          "occupation": "Former Apprentice",
+          "motive": "Marie destroyed her career by spreading false rumors about food safety violations",
+          "alibi": "Claims she was serving customers in the front shop"
+        },
+        {
+          "name": "Dr. Philippe Rousseau",
+          "occupation": "Marie's Secret Lover",
+          "motive": "Marie threatened to tell his wife about their affair",
+          "alibi": "Says he was in his car making medical calls"
+        },
+        {
+          "name": "Isabelle Girard",
+          "occupation": "Pastry Student",
+          "motive": "Marie gave her a failing grade that ended her culinary scholarship",
+          "alibi": "Claims she was washing dishes in the back room"
+        },
+        {
+          "name": "Michel Blanc",
+          "occupation": "Supplier",
+          "motive": "Marie was exposing his substandard ingredients to health inspectors",
+          "alibi": "Says he was making deliveries to other restaurants"
+        }
+      ],
+      "killer": "Pierre Laurent",
+      "motive": "Pierre had been Marie's sous chef for five years, creating innovative recipes that Marie claimed as her own. When he threatened to go public with proof of his creations, Marie fired him and blacklisted him from other restaurants. Pierre returned during the demonstration with insider knowledge of Marie's routine.",
+      "solution": "Pierre knew Marie always ate the first macaron of any batch during demonstrations. He slipped into the kitchen during prep time and injected cyanide into the almond extract used specifically for the lavender macarons. The latex gloves in the dumpster contain his DNA, and the video footage shows him in the background near the ingredients."
+    },
+    {
+      "id": 4,
+      "title": "Death on the High Seas",
+      "introduction": "The luxury yacht 'Sea Princess' cuts through dark waters under a canopy of stars, its deck lights creating an island of civilization in the vast ocean. Waves lap against the hull as champagne flows and business deals are celebrated in the main salon. Miles from any shore, the yacht's passengers are isolated in their floating world of wealth and ambition - but tonight, paradise has become a prison.\n\nDuring a lavish party celebrating a major business merger, maritime lawyer Captain James Thornfield, 58, was found dead in his private cabin with an antique whaling harpoon piercing his chest. The weapon, taken from the yacht's own decorative collection, suggests someone with intimate knowledge of the vessel. Blood spatter analysis indicates Thornfield fought his attacker before succumbing to his wounds.\n\nThornfield made his fortune helping wealthy clients navigate maritime law loopholes, often enabling them to avoid consequences for environmental disasters and criminal activities. Now, trapped on the open sea with no possibility of escape, one of his past clients - or victims - has delivered their own form of justice. The killer walks among the remaining passengers, and the yacht won't reach port for another twelve hours.",
+      "victim": {
+        "name": "Captain James Thornfield",
+        "age": 58,
+        "occupation": "Maritime Lawyer/Captain",
+        "background": "Corrupt lawyer who helped wealthy clients avoid maritime law consequences"
+      },
+      "location": "Luxury Yacht 'Sea Princess' - Captain's Cabin",
+      "causeOfDeath": "Harpoon to the chest",
+      "murderWeapon": "Antique whaling harpoon",
+      "timeOfDeath": "10:40 PM",
+      "evidence": [
+        "Antique harpoon from the yacht's decoration",
+        "Blood spatter analysis showing struggle",
+        "Torn fabric caught on cabin door",
+        "Ship's log with falsified entries",
+        "Hidden safe containing blackmail materials",
+        "GPS device showing secret route changes",
+        "Champagne glass with lipstick residue"
+      ],
+      "suspects": [
+        {
+          "name": "Victoria Sterling",
+          "occupation": "Shipping Heiress",
+          "motive": "James was blackmailing her family about illegal cargo operations",
+          "alibi": "Claims she was on deck socializing with other guests"
+        },
+        {
+          "name": "First Mate Rodriguez",
+          "occupation": "Ship's First Mate",
+          "motive": "James was planning to frame him for a smuggling operation",
+          "alibi": "Says he was conducting routine engine checks below deck"
+        },
+        {
+          "name": "Dr. Amanda Walsh",
+          "occupation": "Marine Biologist",
+          "motive": "James helped cover up environmental disasters that destroyed her research",
+          "alibi": "Claims she was in her cabin analyzing water samples"
+        },
+        {
+          "name": "Marcus Hyde",
+          "occupation": "Insurance Investigator",
+          "motive": "James was helping clients commit insurance fraud on sunken vessels",
+          "alibi": "Says he was in the communications room making calls"
+        },
+        {
+          "name": "Elena Novak",
+          "occupation": "Cocktail Server",
+          "motive": "James assaulted her sister and used legal loopholes to avoid prosecution",
+          "alibi": "Claims she was serving drinks in the main salon"
+        },
+        {
+          "name": "Benjamin Cross",
+          "occupation": "Environmental Activist",
+          "motive": "James helped polluting companies avoid environmental penalties",
+          "alibi": "Says he was taking photos of dolphins from the stern"
+        },
+        {
+          "name": "Sophia Chen",
+          "occupation": "James's Ex-Wife",
+          "motive": "Bitter divorce battle over maritime assets and alimony",
+          "alibi": "Claims she was in the guest cabin resting from seasickness"
+        }
+      ],
+      "killer": "Elena Novak",
+      "motive": "Elena's sister Maria was sexually assaulted by James during a legal consultation. James used his knowledge of maritime law to avoid prosecution by ensuring the incident occurred in international waters. Elena took the yacht job specifically to get revenge.",
+      "solution": "Elena used her access as a server to drug James's champagne with sedatives. When he stumbled to his cabin, she followed with the decorative harpoon. The torn fabric on the door matches her server uniform, and the lipstick on the champagne glass is hers. She timed the murder during the fireworks display when the noise would mask any sounds."
+    },
+    {
+      "id": 5,
+      "title": "Murder at the Mountain Lodge",
+      "introduction": "Snow falls heavily outside Eriksson Mountain Lodge, the blizzard transforming the alpine retreat into an isolated fortress cut off from the outside world. Inside, a roaring fire crackles in the stone hearth while guests huddle together, their escape routes blocked by nature's fury. The lodge, once a cozy sanctuary for winter sports enthusiasts, has become a trap where civilization's thin veneer begins to crack under pressure.\n\nLodge owner Henrik Eriksson, 45, has been found dead in the wine cellar, apparently crushed when heavy wine racks collapsed on top of him. The former Olympic skier turned businessman lies motionless among shattered bottles and scattered corks. However, fresh tool marks on the metal brackets and modified support cables suggest this was no tragic accident.\n\nEriksson had many secrets hidden beneath his charming host facade - financial troubles, harassment of staff, and plans to sell the lodge that would leave employees jobless. The blizzard has trapped everyone inside with the killer, creating the perfect locked-room mystery. With no phone service and roads impassable, the guests must solve this murder themselves before the killer strikes again.",
+      "victim": {
+        "name": "Henrik Eriksson",
+        "age": 45,
+        "occupation": "Lodge Owner",
+        "background": "Former Olympic skier turned businessman with many dark secrets"
+      },
+      "location": "Eriksson Mountain Lodge - Wine Cellar",
+      "causeOfDeath": "Crushing injuries",
+      "murderWeapon": "Wine rack mechanism",
+      "timeOfDeath": "1:30 AM",
+      "evidence": [
+        "Modified wine rack support cables",
+        "Fresh tool marks on metal brackets",
+        "Henrik's phone showing threatening texts",
+        "Footprints in the snow leading to the cellar",
+        "Missing ski equipment from the gear room",
+        "Financial records hidden behind wine bottles",
+        "Broken nail found under Henrik's fingernails"
+      ],
+      "suspects": [
+        {
+          "name": "Astrid Lindberg",
+          "occupation": "Head Chef",
+          "motive": "Henrik was sexually harassing her and threatening her work visa",
+          "alibi": "Claims she was cleaning the kitchen after the evening service"
+        },
+        {
+          "name": "Otto Zimmerman",
+          "occupation": "Ski Instructor",
+          "motive": "Henrik was selling the lodge and planned to fire all staff",
+          "alibi": "Says he was in his cabin reading until late"
+        },
+        {
+          "name": "Dr. Klaus Weber",
+          "occupation": "Guest/Cardiologist",
+          "motive": "Henrik was blackmailing him about a patient's death he covered up",
+          "alibi": "Claims he was administering medication to his sick wife"
+        },
+        {
+          "name": "Ingrid Petersen",
+          "occupation": "Cleaning Staff",
+          "motive": "Henrik discovered she was stealing from guest rooms",
+          "alibi": "Says she was restocking linens in the guest wing"
+        },
+        {
+          "name": "Lars Hanson",
+          "occupation": "Maintenance Worker",
+          "motive": "Henrik refused to pay for his son's expensive cancer treatment",
+          "alibi": "Claims he was checking the generator in the basement"
+        },
+        {
+          "name": "Greta Svensson",
+          "occupation": "Guest/Environmental Lawyer",
+          "motive": "Henrik was illegally dumping waste that poisoned the local water supply",
+          "alibi": "Says she was in her room preparing legal documents"
+        },
+        {
+          "name": "Erik Johansson",
+          "occupation": "Henrik's Business Partner",
+          "motive": "Discovered Henrik was embezzling from their joint ventures",
+          "alibi": "Claims he was on a conference call with investors"
+        }
+      ],
+      "killer": "Lars Hanson",
+      "motive": "Lars's 8-year-old son needed experimental cancer treatment costing $200,000. Despite years of loyal service, Henrik coldly refused to help, even firing Lars when he asked for an advance. Lars used his maintenance knowledge to sabotage the wine rack mechanism.",
+      "solution": "Lars used his expertise with the lodge's mechanical systems to weaken the wine rack supports with specific tension points. He lured Henrik to the cellar with a fake emergency call about a gas leak. The broken nail under Henrik's fingernails belongs to Lars from their struggle before the wine racks collapsed."
+    },
+    {
+      "id": 6,
+      "title": "Fatal Performance at the Circus",
+      "introduction": "Under the bright lights of the big top, sawdust swirls in the air as Cirque Mystique prepares for its grand finale. The crowd sits in hushed anticipation, children's faces painted with wonder while adults lean forward in their seats. High above, the trapeze platform sways gently, waiting for its star performer to take flight in what should be a moment of breathtaking artistry and grace.\n\nStar trapeze artist Luna Montenegro, 28, plummeted to her death during the evening's grand finale when her safety net catastrophically failed. The rising performer, known for her dangerous stunts and romantic entanglements, crashed to the ground before hundreds of horrified spectators. What appeared to be a tragic accident quickly revealed itself as something far more sinister when investigators discovered deliberate cuts in the safety net.\n\nLuna's rapid rise to stardom had created jealousy among fellow performers and complications with wealthy patrons. Behind the circus's facade of magic and wonder lay a world of fierce competition, sexual exploitation, and financial desperation. Someone with access to Luna's equipment and knowledge of circus safety protocols had turned her greatest strength - her fearless performances - into the instrument of her death.",
+      "victim": {
+        "name": "Luna Montenegro",
+        "age": 28,
+        "occupation": "Trapeze Artist",
+        "background": "Rising star performer known for her dangerous stunts and romantic entanglements"
+      },
+      "location": "Cirque Mystique Big Top - Center Ring",
+      "causeOfDeath": "Fall from height",
+      "murderWeapon": "Sabotaged safety equipment",
+      "timeOfDeath": "9:47 PM (during finale performance)",
+      "evidence": [
+        "Cut safety net with deliberate incisions",
+        "Tampered harness with weakened straps",
+        "Love letters in Luna's trailer",
+        "Financial documents showing gambling debts",
+        "Witness accounts of pre-show arguments",
+        "Security footage of backstage area",
+        "Makeup compact with hidden recording device"
+      ],
+      "suspects": [
+        {
+          "name": "Dimitri Volkov",
+          "occupation": "Fellow Trapeze Artist",
+          "motive": "Luna was chosen for a starring role in a major production over him",
+          "alibi": "Claims he was preparing for his own act in the side tent"
+        },
+        {
+          "name": "Madame Zelda Kozlova",
+          "occupation": "Circus Owner/Fortune Teller",
+          "motive": "Luna discovered Zelda was embezzling from performer salaries",
+          "alibi": "Says she was greeting VIP guests in her private booth"
+        },
+        {
+          "name": "Marco Santos",
+          "occupation": "Luna's Ex-Boyfriend/Clown",
+          "motive": "Bitter breakup after Luna started affair with a wealthy patron",
+          "alibi": "Claims he was entertaining children in the family section"
+        },
+        {
+          "name": "Isabella Rodriguez",
+          "occupation": "Backup Trapeze Artist",
+          "motive": "Desperately wanted Luna's starring role to support her sick mother",
+          "alibi": "Says she was warming up in the practice tent"
+        },
+        {
+          "name": "Victor Kane",
+          "occupation": "Equipment Manager",
+          "motive": "Luna reported him for inadequate safety checks that injured another performer",
+          "alibi": "Claims he was monitoring equipment from the control booth"
+        },
+        {
+          "name": "Dr. Patricia Mills",
+          "occupation": "Traveling Show Doctor",
+          "motive": "Luna threatened to expose her addiction to prescription drugs",
+          "alibi": "Says she was tending to a performer with a minor injury"
+        },
+        {
+          "name": "Antoine Beaumont",
+          "occupation": "Wealthy Patron/Luna's Lover",
+          "motive": "Luna was blackmailing him about tax evasion and illegal art deals",
+          "alibi": "Claims he was in the VIP tent with business associates"
+        }
+      ],
+      "killer": "Victor Kane",
+      "motive": "Luna had documented Victor's negligent safety practices that led to another performer's career-ending injury. She was planning to testify against him in an upcoming lawsuit that would destroy his career and send him to prison. Victor used his access to sabotage her equipment during final safety checks.",
+      "solution": "Victor systematically weakened both Luna's safety net and harness during the mandatory pre-show equipment inspection. The security footage shows him spending extra time with Luna's gear. The recording device in her makeup compact captured their argument where he begged her not to testify against him."
+    },
+    {
+      "id": 7,
+      "title": "Death at the Art Gallery Opening",
+      "introduction": "The Crane Contemporary Gallery buzzes with sophisticated conversation as art collectors and critics admire the 'Masterpieces of the Modern Era' exhibition. Crystal wine glasses catch the carefully positioned gallery lighting while guests in designer attire debate artistic merit and market values. The sterile white walls and polished concrete floors create the perfect backdrop for displaying humanity's creative achievements - and concealing its darker impulses.\n\nGallery owner Sebastian Crane, 61, has been found dead in the storage room, impaled by a sharp metal sculpture that was part of the evening's featured collection. The artwork, ironically titled 'Justice Piercing Truth,' now serves as both murder weapon and grim commentary on Crane's corrupt career. Blood spatter across nearby paintings creates an unintended abstract masterpiece of violence.\n\nCrane built his gallery empire through forgeries, stolen artwork, and exploitation of artists desperate for recognition. His refined exterior masked a man who corrupted the art world's integrity for personal profit. Tonight, surrounded by priceless masterpieces and wealthy patrons, someone decided that Crane's final exhibition would be his most honest - a raw display of the consequences of his artistic crimes.",
+      "victim": {
+        "name": "Sebastian Crane",
+        "age": 61,
+        "occupation": "Gallery Owner",
+        "background": "Corrupt art dealer involved in forgeries and stolen artwork"
+      },
+      "location": "Crane Contemporary Gallery - Storage Room",
+      "causeOfDeath": "Impalement",
+      "murderWeapon": "Modern art sculpture (metal spear)",
+      "timeOfDeath": "8:20 PM",
+      "evidence": [
+        "Blood spatter on nearby paintings",
+        "Forged authentication certificates",
+        "Hidden compartment behind fake wall",
+        "Security camera with 15-minute gap",
+        "Wine glass with unknown fingerprints",
+        "Threatening email printed and hidden",
+        "Paint chips under Sebastian's fingernails"
+      ],
+      "suspects": [
+        {
+          "name": "Dr. Evelyn Cross",
+          "occupation": "Art Historian",
+          "motive": "Sebastian was selling forgeries of paintings she authenticated as genuine",
+          "alibi": "Claims she was giving a lecture to guests in the main gallery"
+        },
+        {
+          "name": "Nicholas Hartwell",
+          "occupation": "Rival Gallery Owner",
+          "motive": "Sebastian was undercutting his business and stealing his clients",
+          "alibi": "Says he was networking with potential buyers near the champagne bar"
+        },
+        {
+          "name": "Carmen Valdez",
+          "occupation": "Gallery Assistant",
+          "motive": "Sebastian sexually assaulted her and threatened to destroy her art career",
+          "alibi": "Claims she was directing guests to the coat check"
+        },
+        {
+          "name": "Professor David Kim",
+          "occupation": "Museum Curator",
+          "motive": "Sebastian was selling stolen artifacts that belonged in public museums",
+          "alibi": "Says he was examining paintings in the back exhibition room"
+        },
+        {
+          "name": "Anastasia Petrov",
+          "occupation": "Wealthy Collector",
+          "motive": "Sebastian sold her millions in fake paintings and refused to refund",
+          "alibi": "Claims she was in the restroom during the time period"
+        },
+        {
+          "name": "Jake Morrison",
+          "occupation": "Security Guard",
+          "motive": "Sebastian discovered he was helping thieves target specific pieces",
+          "alibi": "Says he was patrolling the upper floor galleries"
+        },
+        {
+          "name": "Maria Santos",
+          "occupation": "Artist",
+          "motive": "Sebastian stole her original works and sold them under famous names",
+          "alibi": "Claims she was smoking outside in the sculpture garden"
+        }
+      ],
+      "killer": "Carmen Valdez",
+      "motive": "Sebastian had sexually assaulted Carmen multiple times, using his power in the art world to silence her. When she finally decided to report him, he threatened to blacklist her from every gallery and destroy her artistic dreams. The final straw was when he assaulted her again that very evening.",
+      "solution": "Carmen used her insider knowledge of the gallery to disable the security camera and lure Sebastian to the storage room under the pretense of discussing a 'special piece.' The paint chips under his fingernails match the sculpture she used to kill him. She timed the murder during her colleague's speech when everyone was distracted."
+    },
+    {
+      "id": 8,
+      "title": "Murder in the University Library",
+      "introduction": "The Gothic towers of Whitmore University pierce the night sky as finals week transforms the campus into a pressure cooker of academic anxiety. In the rare books section of the ancient library, leather-bound volumes and parchment manuscripts hold centuries of knowledge, their musty scent mixing with the tension that permeates every corner during examination season. Here, where scholarship meets ambition, the pursuit of knowledge has taken a deadly turn.\n\nProfessor Margaret Thornfield, 54, has been found dead among the medieval manuscripts she claimed to love, suffocated with a 16th-century text pressed against her face in a grotesque parody of scholarly devotion. The medieval literature professor, known for her ruthless destruction of careers and theft of research from students and colleagues, met her end surrounded by the very books she used to build her reputation.\n\nThornfield's decades-long reign of academic terror included stolen research, falsified grades, and systematic destruction of anyone who threatened her position. The university's ivory tower facade concealed a brutal world where tenure battles were fought with the viciousness of medieval warfare. Someone finally decided that Thornfield's final lesson would be taught with the very tools of her trade - the ancient texts she claimed to serve but ultimately corrupted.",
+      "victim": {
+        "name": "Professor Margaret Thornfield",
+        "age": 54,
+        "occupation": "Medieval Literature Professor",
+        "background": "Ruthless academic who destroyed careers and stole research from students and colleagues"
+      },
+      "location": "Whitmore University Library - Rare Books Section",
+      "causeOfDeath": "Suffocation",
+      "murderWeapon": "Medieval manuscript",
+      "timeOfDeath": "11:15 PM",
+      "evidence": [
+        "16th-century manuscript with fingerprints",
+        "Struggle marks on library carpet",
+        "Professor's briefcase with plagiarized research",
+        "Security badge access logs",
+        "Torn page with handwritten notes",
+        "Coffee cup with sedative residue",
+        "Hidden camera memory card in book spine"
+      ],
+      "suspects": [
+        {
+          "name": "Dr. Robert Chen",
+          "occupation": "Assistant Professor",
+          "motive": "Margaret stole his doctoral research and published it as her own work",
+          "alibi": "Claims he was grading papers in his office until midnight"
+        },
+        {
+          "name": "Sarah Williams",
+          "occupation": "Graduate Student",
+          "motive": "Margaret gave her a failing grade on her thesis out of spite",
+          "alibi": "Says she was studying in the main reading room"
+        },
+        {
+          "name": "Dean Harold Morrison",
+          "occupation": "University Dean",
+          "motive": "Margaret threatened to expose his affair with a student",
+          "alibi": "Claims he was attending a faculty meeting in the administration building"
+        },
+        {
+          "name": "Dr. Elena Vasquez",
+          "occupation": "Library Director",
+          "motive": "Margaret was trying to get her fired for 'inefficient' rare book management",
+          "alibi": "Says she was cataloging new acquisitions in the basement archive"
+        },
+        {
+          "name": "Thomas Bradford",
+          "occupation": "Janitor",
+          "motive": "Margaret got him demoted after falsely accusing him of theft",
+          "alibi": "Claims he was cleaning the chemistry building across campus"
+        },
+        {
+          "name": "Dr. Priya Patel",
+          "occupation": "Medieval History Professor",
+          "motive": "Margaret was blocking her tenure application with false accusations",
+          "alibi": "Says she was working late in the faculty lounge"
+        },
+        {
+          "name": "Kevin Murphy",
+          "occupation": "Undergraduate Student",
+          "motive": "Margaret failed him and destroyed his plans for medical school",
+          "alibi": "Claims he was at his dorm room playing video games with roommates"
+        }
+      ],
+      "killer": "Dr. Robert Chen",
+      "motive": "Margaret had stolen Robert's groundbreaking research on medieval manuscripts for her latest book, ensuring his academic career would never recover. When he confronted her about returning credit, she laughed and threatened to destroy him completely. The irony of using a medieval manuscript as the murder weapon was intentional.",
+      "solution": "Robert drugged Margaret's coffee during their late-night 'meeting' about research collaboration. When she became drowsy, he suffocated her with the same type of medieval manuscript that made her famous. The hidden camera he planted earlier captured her stealing his research, but he decided murder was more satisfying than exposure."
+    },
+    {
+      "id": 9,
+      "title": "Death at the Film Studio",
+      "introduction": "Sunset Studios hums with the controlled chaos of a major film production as 'Shadow's End' races toward its completion deadline. Massive klieg lights illuminate elaborate sets while crews rush between soundstages, their voices mixing with the mechanical whir of cameras and the distant rumble of traffic on the Hollywood Freeway. In this dream factory where illusion becomes reality, the line between performance and truth has been fatally crossed.\n\nA-list actor Ryan DeVault, 39, has been found dead in his private trailer, killed by a prop gun that was supposed to contain blanks but fired a real bullet instead. The charismatic leading man, known as much for his dark exploitation of others as his on-screen charm, was discovered slumped in his director's chair, the modified weapon still in his hand from what was meant to be a private rehearsal.\n\nDeVault's career was built on blackmail, sexual exploitation, and the systematic destruction of anyone who crossed him. Behind Hollywood's glittering facade lay a world where power corrupted absolutely and revenge was often the only justice available. Someone with access to the props and knowledge of DeVault's private rehearsal schedule had written a different ending to his story - one where the villain finally faced the consequences of his actions.",
+      "victim": {
+        "name": "Ryan DeVault",
+        "age": 39,
+        "occupation": "A-List Actor",
+        "background": "Charismatic leading man with a dark side involving exploitation and blackmail"
+      },
+      "location": "Sunset Studios - Ryan's Private Trailer",
+      "causeOfDeath": "Gunshot wound to chest",
+      "murderWeapon": "Prop gun with real bullet",
+      "timeOfDeath": "6:45 PM",
+      "evidence": [
+        "Prop gun with real bullet instead of blank",
+        "Modified ammunition storage box",
+        "Blackmail photos hidden in trailer safe",
+        "Script with threatening notes in margins",
+        "Cell phone with deleted voicemails",
+        "Cocaine residue on trailer surfaces",
+        "Signed movie contract with suspicious clauses"
+      ],
+      "suspects": [
+        {
+          "name": "Madison Foster",
+          "occupation": "Co-Star Actress",
+          "motive": "Ryan was blackmailing her with compromising photos from their affair",
+          "alibi": "Claims she was in makeup getting prepared for the next scene"
+        },
+        {
+          "name": "Jake Harrison",
+          "occupation": "Stunt Coordinator",
+          "motive": "Ryan got him fired from his last job after a safety dispute",
+          "alibi": "Says he was rigging stunts for tomorrow's action sequence"
+        },
+        {
+          "name": "Veronica Sterling",
+          "occupation": "Film Producer",
+          "motive": "Ryan was demanding impossible contract changes that would bankrupt the film",
+          "alibi": "Claims she was in budget meetings with studio executives"
+        },
+        {
+          "name": "Marcus Webb",
+          "occupation": "Director",
+          "motive": "Ryan was sabotaging the film and trying to get him replaced",
+          "alibi": "Says he was reviewing dailies in the editing room"
+        },
+        {
+          "name": "Diana Ross (Not the Singer)",
+          "occupation": "Props Manager",
+          "motive": "Ryan sexually assaulted her and threatened her career when she resisted",
+          "alibi": "Claims she was organizing props for the next day's shoot"
+        },
+        {
+          "name": "Antonio Lopez",
+          "occupation": "Ryan's Agent",
+          "motive": "Ryan discovered Antonio was embezzling commission money",
+          "alibi": "Says he was negotiating deals via phone in the parking lot"
+        },
+        {
+          "name": "Dr. Rebecca Stone",
+          "occupation": "On-Set Medic",
+          "motive": "Ryan was blackmailing her about illegally supplying him with drugs",
+          "alibi": "Claims she was treating an extra's minor injury in the medical tent"
+        }
+      ],
+      "killer": "Diana Ross",
+      "motive": "Ryan had sexually assaulted Diana multiple times, using his star power to silence her. When she finally decided to report him, he threatened to destroy her career and ensure she never worked in Hollywood again. The final assault happened just hours before his death, driving her to desperate action.",
+      "solution": "Diana used her access as props manager to replace a blank cartridge with a real bullet in the gun used for Ryan's upcoming scene. She convinced him to 'practice' the scene privately in his trailer, knowing his ego would make him want to perfect his performance. The deleted voicemails on his phone contain her pleas for him to stop the abuse."
+    },
+    {
+      "id": 10,
+      "title": "Murder at the Space Research Facility",
+      "introduction": "The Cosmos Research Institute stands as a monument to humanity's reach for the stars, its gleaming white corridors and state-of-the-art laboratories representing the cutting edge of space exploration technology. Computer screens glow with orbital calculations while the hum of life support systems creates an almost otherworldly atmosphere. But tonight, this temple to human achievement has become the site of a very earthly crime.\n\nLead astronaut Dr. Alex Nova, 47, has been found dead in the zero-gravity simulation chamber, apparently suffocated when the life support system mysteriously malfunctioned during what should have been a routine training exercise. The brilliant but arrogant scientist, known for his unethical research practices and destruction of colleagues' careers, floated helplessly as his oxygen ran out in the chamber designed to simulate the vacuum of space.\n\nNova built his reputation by stealing research, conducting illegal human experiments, and systematically destroying anyone who threatened to expose his methods. The research facility's advanced security and limited access make this the perfect locked-room mystery - someone with intimate knowledge of both the technology and Nova's schedule had programmed his final mission. In seeking to conquer space, Nova discovered that his greatest enemy was much closer to home.",
+      "victim": {
+        "name": "Dr. Alex Nova",
+        "age": 47,
+        "occupation": "Lead Astronaut/Research Director",
+        "background": "Brilliant but arrogant scientist who made many enemies through unethical research practices"
+      },
+      "location": "Cosmos Research Institute - Zero-G Simulation Chamber",
+      "causeOfDeath": "Asphyxiation",
+      "murderWeapon": "Disabled life support system",
+      "timeOfDeath": "2:30 AM",
+      "evidence": [
+        "Tampered computer control system",
+        "Emergency override codes deleted from database",
+        "Hidden files about illegal human experiments",
+        "Sabotaged air circulation unit",
+        "Security footage with edited timestamps",
+        "Alex's personal notes about 'problem colleagues'",
+        "Fingerprints on internal chamber controls"
+      ],
+      "suspects": [
+        {
+          "name": "Dr. Lisa Martinez",
+          "occupation": "Aerospace Engineer",
+          "motive": "Alex stole her spacecraft design and destroyed her credibility",
+          "alibi": "Claims she was running calculations in the computer lab"
+        },
+        {
+          "name": "Commander Jack Reynolds",
+          "occupation": "Former Astronaut",
+          "motive": "Alex sabotaged his final mission, ending his space career with public humiliation",
+          "alibi": "Says he was conducting night security rounds"
+        },
+        {
+          "name": "Dr. Yuki Tanaka",
+          "occupation": "Biomedical Researcher",
+          "motive": "Alex was using her research for unethical human experiments without consent",
+          "alibi": "Claims she was analyzing blood samples in the medical wing"
+        },
+        {
+          "name": "Steven Collins",
+          "occupation": "IT Systems Administrator",
+          "motive": "Alex discovered he was selling research data to foreign governments",
+          "alibi": "Says he was performing system backups in the server room"
+        },
+        {
+          "name": "Dr. Fatima Al-Rashid",
+          "occupation": "Mission Psychologist",
+          "motive": "Alex was covering up psychological damage he caused to astronauts",
+          "alibi": "Claims she was writing evaluation reports in her office"
+        },
+        {
+          "name": "General Patricia Hayes",
+          "occupation": "Military Liaison",
+          "motive": "Alex threatened to expose classified military space weapons programs",
+          "alibi": "Says she was attending a secure video conference with Pentagon officials"
+        },
+        {
+          "name": "Dr. Chen Wei",
+          "occupation": "Junior Researcher",
+          "motive": "Alex was planning to frame him for the illegal experiments to save himself",
+          "alibi": "Claims he was cleaning lab equipment in the chemistry section"
+        }
+      ],
+      "killer": "Dr. Chen Wei",
+      "motive": "Alex had been conducting illegal human experiments on astronaut candidates, using Chen's legitimate research as a cover. When investigations began, Alex planned to frame Chen as the mastermind. Chen discovered this betrayal and realized his career and freedom were in jeopardy.",
+      "solution": "Chen used his access to the facility's computer systems to trap Alex in the zero-gravity chamber during a late-night 'equipment test.' He disabled the life support system and deleted the emergency override codes, ensuring Alex would suffocate. The fingerprints on the internal controls belong to Chen, who entered the chamber earlier to plant evidence making it look like a system malfunction."
+    }
+  ]
+}
